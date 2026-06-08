@@ -1,0 +1,7 @@
+.DS_Store
+.obsidian/
+__pycache__/
+*.pyc
+data/*.enriched.csv
+data/metadata.json
+
