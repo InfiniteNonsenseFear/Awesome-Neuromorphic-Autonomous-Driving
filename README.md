@@ -88,6 +88,7 @@ flowchart LR
 * Deployment-Friendly Lane-Changing Intention Prediction Powered by Brain-Inspired Spiking Neural Networks. `IV 25` [[Paper](https://doi.org/10.1109/iv64158.2025.11097793)]
 * Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction. `ECAI 24` [[Paper](https://doi.org/10.3233/faia241013)] [[PDF](https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241013)]
 * Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars. `Zurich Open Repository 18` [[Paper](https://doi.org/10.5167/uzh-175994)]
+* A large scale event-based detection dataset for automotive. `arXiv 20` [[Paper](https://arxiv.org/abs/2001.08499)]
 
 ### 🚘 End-to-End Driving
 

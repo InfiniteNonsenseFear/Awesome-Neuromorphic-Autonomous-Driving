@@ -39,6 +39,7 @@ Perception,DDD17: End-to-end DAVIS driving dataset,arXiv,2017,https://arxiv.org/
 Prediction,Deployment-Friendly Lane-Changing Intention Prediction Powered by Brain-Inspired Spiking Neural Networks,IV,2025,https://doi.org/10.1109/iv64158.2025.11097793,,,,
 Prediction,Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction,ECAI,2024,https://doi.org/10.3233/faia241013,https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241013,,,
 Prediction,Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars,Zurich Open Repository,2018,https://doi.org/10.5167/uzh-175994,,,,
+Prediction,A large scale event-based detection dataset for automotive,arXiv,2020,https://arxiv.org/abs/2001.08499,,,,
 End-to-End Driving,Autonomous Driving with Spiking Neural Networks,arXiv,2024,http://arxiv.org/abs/2405.19687,https://arxiv.org/pdf/2405.19687,,,
 End-to-End Driving,A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment,arXiv,2025,http://arxiv.org/abs/2502.16027,https://arxiv.org/pdf/2502.16027,,,
 End-to-End Driving,Brain-Inspired Deep Imitation Learning for Autonomous Driving Systems,arXiv,2021,http://arxiv.org/abs/2107.14654,https://arxiv.org/pdf/2107.14654,,,
