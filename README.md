@@ -45,7 +45,7 @@ flowchart LR
 * Spiking neural networks for autonomous driving: A review. `EAAI 24` [[Paper](https://doi.org/10.1016/j.engappai.2024.109415)]
 * Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception. `IEEE SPM 20` [[Paper](https://doi.org/10.1109/msp.2020.2985815)] [[PDF](https://mediatum.ub.tum.de/1550369)]
 * Deep Event-Based Object Detection in Autonomous Driving: A Survey. `BigDIA 24` [[Paper](https://doi.org/10.1109/bigdia63733.2024.10808654)]
-* Exploring Deep Spiking Neural Networks for Automated Driving Applications. `VISIGRAPP 19` [[Paper](https://doi.org/10.5220/0007469400002108)]
+* Exploring Deep Spiking Neural Networks for Automated Driving Applications. `VISIGRAPP 19` [[Paper](https://arxiv.org/abs/1903.02080)]
 * Neuromorphic Computing for Embodied Intelligence in Autonomous Systems: Current Trends, Challenges, and Future Directions. `IOLTS 25` [[Paper](https://doi.org/10.1109/iolts65288.2025.11116950)]
 * Advancing Neuromorphic Computing With Loihi: A Survey of Results and Outlook. `Proceedings of the IEEE 21` [[Paper](https://doi.org/10.1109/jproc.2021.3067593)] [[PDF](https://ieeexplore.ieee.org/ielx7/5/9420072/09395703.pdf)]
 * Embodied neuromorphic intelligence. `Nature Communications 22` [[Paper](https://doi.org/10.1038/s41467-022-28487-2)] [[PDF](https://www.nature.com/articles/s41467-022-28487-2.pdf)]
