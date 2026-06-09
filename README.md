@@ -52,6 +52,15 @@ flowchart LR
 * Neuromorphic Computing for Interactive Robotics: A Systematic Review. `IEEE Access 22` [[Paper](https://doi.org/10.1109/access.2022.3219440)] [[PDF](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09938437.pdf)]
 * Neuromorphic Perception and Navigation for Mobile Robots: A Review. `ACM CSUR 24` [[Paper](https://doi.org/10.1145/3656469)] [[PDF](https://dl.acm.org/doi/pdf/10.1145/3656469)]
 * Editorial: Brain-inspired autonomous driving. `Frontiers in Neurorobotics 25` [[Paper](https://doi.org/10.3389/fnbot.2025.1543115)] [[PDF](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1543115/pdf)]
+* Networks of spiking neurons: The third generation of neural network models. `Neural Networks 97` [[Paper](https://doi.org/10.1016/S0893-6080(97)00011-7)]
+* Towards spike-based machine intelligence with neuromorphic computing. `Nature 19` [[Paper](https://doi.org/10.1038/s41586-019-1677-2)]
+* Surrogate gradient learning in spiking neural networks. `IEEE SPM 19` [[Paper](https://doi.org/10.1109/MSP.2019.2931595)]
+* Event-based vision: A survey. `TPAMI 22` [[Paper](https://doi.org/10.1109/TPAMI.2020.3008413)]
+* Loihi: A neuromorphic manycore processor with on-chip learning. `IEEE Micro 18` [[Paper](https://doi.org/10.1109/MM.2018.112130359)]
+* Low-latency automotive vision with event cameras. `Nature 24` [[Paper](https://doi.org/10.1038/s41586-024-07409-w)]
+* Efficient and real-time perception: A survey on end-to-end event-based object detection in autonomous driving. `Frontiers in Robotics and AI 25` [[Paper](https://doi.org/10.3389/frobt.2025.1674421)]
+* A survey of decision-making and planning methods for self-driving vehicles. `Frontiers in Neurorobotics 25` [[Paper](https://doi.org/10.3389/fnbot.2025.1451923)]
+* Fusion techniques of frame and event cameras in autonomous driving: A review. `Information Fusion 25` [[Paper](https://doi.org/10.1016/j.inffus.2024.102909)]
 
 ### 👁️ Perception
 
@@ -68,6 +77,11 @@ flowchart LR
 * Object Detection based on LIDAR Temporal Pulses using Spiking Neural Networks. `arXiv 18` [[Paper](http://arxiv.org/abs/1810.12436)] [[PDF](https://arxiv.org/pdf/1810.12436)]
 * DRiVE: Dynamic Recognition in VEhicles using snnTorch. `arXiv 25` [[Paper](http://arxiv.org/abs/2502.10421)] [[PDF](https://arxiv.org/pdf/2502.10421)]
 * Enhancing Autonomous Driving Perception: A Practical Approach to Event-Based Object Detection in CARLA and ROS. `Vehicles 25` [[Paper](https://doi.org/10.3390/vehicles7020053)] [[PDF](https://www.mdpi.com/2624-8921/7/2/53/pdf?version=1748600396)]
+* EV-SegNet: Semantic segmentation for event-based cameras. `CVPRW 19` [[Paper](https://doi.org/10.1109/CVPRW.2019.00210)]
+* ESS: Learning event-based semantic segmentation from still images. `ECCV 22` [[Paper](https://doi.org/10.1007/978-3-031-19821-2_20)]
+* DSEC: A stereo event camera dataset for driving scenarios. `RA-L 21` [[Paper](https://doi.org/10.1109/LRA.2021.3073670)]
+* Driving in spikes: An entropy-guided object detector for spike cameras. `arXiv 25` [[Paper](https://arxiv.org/abs/2511.15459)]
+* DDD17: End-to-end DAVIS driving dataset. `arXiv 17` [[Paper](https://arxiv.org/abs/1711.01458)]
 
 ### 🔮 Prediction
 
@@ -121,6 +135,7 @@ flowchart LR
 ### 🌍 World Model and Reinforcement Learning
 
 * Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning. `arXiv 25` [[Paper](https://arxiv.org/abs/2503.00713)]
+* Spiking world models for autonomous driving. `arXiv 25` [[Paper](https://arxiv.org/abs/2505.18977)]
 
 ### 🔋 Energy and Hardware
 
