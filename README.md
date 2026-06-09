@@ -49,6 +49,9 @@ flowchart LR
 * Neuromorphic Computing for Embodied Intelligence in Autonomous Systems: Current Trends, Challenges, and Future Directions. `IOLTS 25` [[Paper](https://doi.org/10.1109/iolts65288.2025.11116950)]
 * Advancing Neuromorphic Computing With Loihi: A Survey of Results and Outlook. `Proceedings of the IEEE 21` [[Paper](https://doi.org/10.1109/jproc.2021.3067593)] [[PDF](https://ieeexplore.ieee.org/ielx7/5/9420072/09395703.pdf)]
 * Embodied neuromorphic intelligence. `Nature Communications 22` [[Paper](https://doi.org/10.1038/s41467-022-28487-2)] [[PDF](https://www.nature.com/articles/s41467-022-28487-2.pdf)]
+* Neuromorphic Computing for Interactive Robotics: A Systematic Review. `IEEE Access 22` [[Paper](https://doi.org/10.1109/access.2022.3219440)] 
+* Neuromorphic Perception and Navigation for Mobile Robots: A Review. `ACM CSUR 24` [[Paper](https://doi.org/10.1145/3656469)] [[PDF](https://dl.acm.org/doi/pdf/10.1145/3656469)]
+* Editorial: Brain-inspired autonomous driving. `Frontiers in Neurorobotics 25` [[Paper](https://doi.org/10.3389/fnbot.2025.1543115)] [[PDF](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1543115/pdf)]
 * Networks of spiking neurons: The third generation of neural network models. `Neural Networks 97` [[Paper](https://doi.org/10.1016/S0893-6080(97)00011-7)]
 * Towards spike-based machine intelligence with neuromorphic computing. `Nature 19` [[Paper](https://doi.org/10.1038/s41586-019-1677-2)]
 * Surrogate gradient learning in spiking neural networks: Bringing the Power of Gradient-Based Optimization to Spiking Neural Networks `IEEE SPM 19` [[Paper](https://doi.org/10.1109/MSP.2019.2931595)]
@@ -106,6 +109,7 @@ flowchart LR
 * Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach. `IJCNN 25` [[Paper](https://doi.org/10.1109/ijcnn64981.2025.11228909)]
 * Fully Autonomous Neuromorphic Navigation and Dynamic Obstacle Avoidance. `NeurIPS 25` [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/50ee6db59fca8643dc625829d4a0eab9-Abstract-Conference.html)] [[PDF](https://papers.neurips.cc/paper_files/paper/2025/file/50ee6db59fca8643dc625829d4a0eab9-Paper-Conference.pdf)]
 * Brain-like path planning algorithm based on spiking neural network. `ICIBA 25` [[Paper](https://doi.org/10.1145/3746709.3746943)] [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746709.3746943)]
+* Neuromorphic Computing for Autonomous Racing. `ICONS 21` [[Paper](https://doi.org/10.1145/3477145.3477170)] [[PDF](https://www.osti.gov/servlets/purl/1827034)]
 * Autonomous Driving of a Rover-Like Robot Using Neuromorphic Computing. `LNCS 21` [[Paper](https://doi.org/10.1007/978-3-030-85099-9_5)]
 
 ### 🎛️ Control
