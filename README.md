@@ -49,18 +49,18 @@ flowchart LR
 * Neuromorphic Computing for Embodied Intelligence in Autonomous Systems: Current Trends, Challenges, and Future Directions. `IOLTS 25` [[Paper](https://doi.org/10.1109/iolts65288.2025.11116950)]
 * Advancing Neuromorphic Computing With Loihi: A Survey of Results and Outlook. `Proceedings of the IEEE 21` [[Paper](https://doi.org/10.1109/jproc.2021.3067593)] [[PDF](https://ieeexplore.ieee.org/ielx7/5/9420072/09395703.pdf)]
 * Embodied neuromorphic intelligence. `Nature Communications 22` [[Paper](https://doi.org/10.1038/s41467-022-28487-2)] [[PDF](https://www.nature.com/articles/s41467-022-28487-2.pdf)]
-* Neuromorphic Computing for Interactive Robotics: A Systematic Review. `IEEE Access 22` [[Paper](https://doi.org/10.1109/access.2022.3219440)] [[PDF](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09938437.pdf)]
+* Neuromorphic Computing for Interactive Robotics: A Systematic Review. `IEEE Access 22` [[Paper](https://doi.org/10.1109/access.2022.3219440)] 
 * Neuromorphic Perception and Navigation for Mobile Robots: A Review. `ACM CSUR 24` [[Paper](https://doi.org/10.1145/3656469)] [[PDF](https://dl.acm.org/doi/pdf/10.1145/3656469)]
 * Editorial: Brain-inspired autonomous driving. `Frontiers in Neurorobotics 25` [[Paper](https://doi.org/10.3389/fnbot.2025.1543115)] [[PDF](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1543115/pdf)]
 * Networks of spiking neurons: The third generation of neural network models. `Neural Networks 97` [[Paper](https://doi.org/10.1016/S0893-6080(97)00011-7)]
 * Towards spike-based machine intelligence with neuromorphic computing. `Nature 19` [[Paper](https://doi.org/10.1038/s41586-019-1677-2)]
-* Surrogate gradient learning in spiking neural networks. `IEEE SPM 19` [[Paper](https://doi.org/10.1109/MSP.2019.2931595)]
+* Surrogate gradient learning in spiking neural networks: Bringing the Power of Gradient-Based Optimization to Spiking Neural Networks `IEEE SPM 19` [[Paper](https://doi.org/10.1109/MSP.2019.2931595)]
 * Event-based vision: A survey. `TPAMI 22` [[Paper](https://doi.org/10.1109/TPAMI.2020.3008413)]
 * Loihi: A neuromorphic manycore processor with on-chip learning. `IEEE Micro 18` [[Paper](https://doi.org/10.1109/MM.2018.112130359)]
 * Low-latency automotive vision with event cameras. `Nature 24` [[Paper](https://doi.org/10.1038/s41586-024-07409-w)]
 * Efficient and real-time perception: A survey on end-to-end event-based object detection in autonomous driving. `Frontiers in Robotics and AI 25` [[Paper](https://doi.org/10.3389/frobt.2025.1674421)]
 * A survey of decision-making and planning methods for self-driving vehicles. `Frontiers in Neurorobotics 25` [[Paper](https://doi.org/10.3389/fnbot.2025.1451923)]
-* Fusion techniques of frame and event cameras in autonomous driving: A review. `Information Fusion 25` [[Paper](https://doi.org/10.1016/j.inffus.2024.102909)]
+* Fusion techniques of frame and event cameras in autonomous driving: A review. `Information Fusion 25` [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525007699)]
 
 ### 👁️ Perception
 
@@ -77,9 +77,9 @@ flowchart LR
 * Object Detection based on LIDAR Temporal Pulses using Spiking Neural Networks. `arXiv 18` [[Paper](http://arxiv.org/abs/1810.12436)] [[PDF](https://arxiv.org/pdf/1810.12436)]
 * DRiVE: Dynamic Recognition in VEhicles using snnTorch. `arXiv 25` [[Paper](http://arxiv.org/abs/2502.10421)] [[PDF](https://arxiv.org/pdf/2502.10421)]
 * Enhancing Autonomous Driving Perception: A Practical Approach to Event-Based Object Detection in CARLA and ROS. `Vehicles 25` [[Paper](https://doi.org/10.3390/vehicles7020053)] [[PDF](https://www.mdpi.com/2624-8921/7/2/53/pdf?version=1748600396)]
-* EV-SegNet: Semantic segmentation for event-based cameras. `CVPRW 19` [[Paper](https://doi.org/10.1109/CVPRW.2019.00210)]
-* ESS: Learning event-based semantic segmentation from still images. `ECCV 22` [[Paper](https://doi.org/10.1007/978-3-031-19821-2_20)]
-* DSEC: A stereo event camera dataset for driving scenarios. `RA-L 21` [[Paper](https://doi.org/10.1109/LRA.2021.3073670)]
+* EV-SegNet: Semantic segmentation for event-based cameras. `CVPRW 19` [[Paper](https://ieeexplore.ieee.org/document/9025483)]
+* ESS: Learning event-based semantic segmentation from still images. `ECCV 22` [[Paper](https://arxiv.org/abs/2203.10016)]
+* DSEC: A stereo event camera dataset for driving scenarios. `RA-L 21` [[Paper](https://arxiv.org/abs/2103.06011)]
 * Driving in spikes: An entropy-guided object detector for spike cameras. `arXiv 25` [[Paper](https://arxiv.org/abs/2511.15459)]
 * DDD17: End-to-end DAVIS driving dataset. `arXiv 17` [[Paper](https://arxiv.org/abs/1711.01458)]
 * A large scale event-based detection dataset for automotive. `arXiv 20` [[Paper](https://arxiv.org/abs/2001.08499)]
@@ -88,8 +88,8 @@ flowchart LR
 ### 🔮 Prediction
 
 * Deployment-Friendly Lane-Changing Intention Prediction Powered by Brain-Inspired Spiking Neural Networks. `IV 25` [[Paper](https://doi.org/10.1109/iv64158.2025.11097793)]
-* Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction. `ECAI 24` [[Paper](https://doi.org/10.3233/faia241013)] [[PDF](https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241013)]
-* Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars. `Zurich Open Repository 18` [[Paper](https://doi.org/10.5167/uzh-175994)]
+* Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction. `ECAI 24` [[Paper](https://doi.org/10.3233/faia241013)] 
+* Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars. `Zurich Open Repository 18` [[Paper](https://ieeexplore.ieee.org/document/8578666)]
 
 ### 🚘 End-to-End Driving
 
@@ -99,7 +99,7 @@ flowchart LR
 
 ### 🧩 Decision and Planning
 
-* New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles. `AAMAS 26 withdrawn` [[Paper](https://doi.org/10.65109/cnhg1330)]
+* New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles. `AAMAS 26 withdrawn` [[Paper](https://arxiv.org/abs/2512.01882)]
 * Decision SpikeFormer: Spike-Driven Transformer for Decision Making. `CVPR 25` [[Paper](https://doi.org/10.1109/cvpr52734.2025.01792)]
 * Dynamic path planning with spiking neural networks. `LNCS 97` [[Paper](https://doi.org/10.1007/bfb0032596)]
 * A Framework for Active Vision-Based Robot Planning using Spiking Neural Networks. `MED 22` [[Paper](https://doi.org/10.1109/med54222.2022.9837132)]
@@ -120,7 +120,7 @@ flowchart LR
 * An Energy-Efficient Lane-Keeping System Using 3D LiDAR Based on Spiking Neural Network. `IROS 23` [[Paper](http://dx.doi.org/10.1109/iros55552.2023.10342044)] [[PDF](https://mediatum.ub.tum.de/1713686)]
 * LiDAR-driven spiking neural network for collision avoidance in autonomous driving. `Bioinspiration & Biomimetics 21` [[Paper](https://doi.org/10.1088/1748-3190/ac290c)]
 * Indirect and direct training of spiking neural networks for end-to-end control of a lane-keeping vehicle. `Neural Networks 19` [[Paper](https://doi.org/10.1016/j.neunet.2019.05.019)] [[PDF](https://arxiv.org/pdf/2003.04603)]
-* End to End Learning of Spiking Neural Network Based on R-STDP for a Lane Keeping Vehicle. `ICRA 18` [[Paper](https://doi.org/10.1109/icra.2018.8460482)] [[PDF](http://mediatum.ub.tum.de/node?id=1429575)]
+* End to End Learning of Spiking Neural Network Based on R-STDP for a Lane Keeping Vehicle. `ICRA 18` [[Paper](https://ieeexplore.ieee.org/document/8460482)] 
 * Fully neuromorphic vision and control for autonomous drone flight. `Science Robotics 24` [[Paper](https://doi.org/10.1126/scirobotics.adi0591)]
 
 ### 🛠️ Fault Diagnosis
@@ -136,8 +136,7 @@ flowchart LR
 
 ### 🌍 World Model and Reinforcement Learning
 
-* Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning. `arXiv 25` [[Paper](https://arxiv.org/abs/2503.00713)]
-* Spiking world models for autonomous driving. `arXiv 25` [[Paper](https://arxiv.org/abs/2505.18977)]
+* Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning. `arXiv 25` [[Paper](https://arxiv.org/abs/2503.00713)]
 
 ### 🔋 Energy and Hardware
 
